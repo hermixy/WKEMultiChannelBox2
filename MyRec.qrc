@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>WK Logo.png</file>
+    </qresource>
+</RCC>
